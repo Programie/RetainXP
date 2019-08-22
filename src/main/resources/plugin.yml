@@ -1,0 +1,10 @@
+name: ${project.name}
+version: ${project.version}
+description: '${project.description}'
+author: Programie
+website: ${project.url}
+main: com.selfcoders.xpkeeper.XPKeeper
+permissions:
+  xpkeeper.keep:
+    description: 'Keep XP on death'
+    default: true
