@@ -4,6 +4,8 @@
 
 A Minecraft Bukkit plugin which prevents loosing all your XP after death.
 
+<img src="logo.png" alt="Logo" height="300"/>
+
 [![pipeline status](https://gitlab.com/Programie/RetainXP/badges/master/pipeline.svg)](https://gitlab.com/Programie/RetainXP/commits/master)
 [![download latest release](https://img.shields.io/badge/download-latest-blue.svg)](https://gitlab.com/Programie/RetainXP/-/jobs/artifacts/master/raw/target/RetainXP.jar?job=release)
 
