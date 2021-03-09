@@ -17,6 +17,11 @@
     <description>Prevent loosing all your XP after death</description>
     <url>https://gitlab.com/Programie/RetainXP</url>
 
+    <scm>
+        <developerConnection>scm:git:ssh://git@gitlab.com/Programie/RetainXP.git</developerConnection>
+        <tag>HEAD</tag>
+    </scm>
+
     <properties>
         <bukkit-api-version>1.12.2</bukkit-api-version>
     </properties>
