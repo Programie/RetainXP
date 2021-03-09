@@ -3,8 +3,8 @@ version: ${project.version}
 description: '${project.description}'
 author: Programie
 website: ${project.url}
-main: com.selfcoders.xpkeeper.XPKeeper
+main: com.selfcoders.retainxp.RetainXP
 permissions:
-  xpkeeper.keep:
-    description: 'Keep XP on death'
+  retainxp.retain:
+    description: 'Retain XP on death'
     default: true

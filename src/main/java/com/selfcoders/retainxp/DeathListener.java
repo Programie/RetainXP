@@ -1,4 +1,4 @@
-package com.selfcoders.xpkeeper;
+package com.selfcoders.retainxp;
 
 import org.bukkit.entity.Player;
 import org.bukkit.event.EventHandler;
@@ -6,9 +6,9 @@ import org.bukkit.event.Listener;
 import org.bukkit.event.entity.PlayerDeathEvent;
 
 public class DeathListener implements Listener {
-    private final XPKeeper plugin;
+    private final RetainXP plugin;
 
-    DeathListener(XPKeeper plugin) {
+    DeathListener(RetainXP plugin) {
         this.plugin = plugin;
     }
 
@@ -16,7 +16,7 @@ public class DeathListener implements Listener {
     public void onDeath(PlayerDeathEvent event) {
         Player player = event.getEntity();
 
-        if (!player.hasPermission("xpkeeper.keep")) {
+        if (!player.hasPermission("retainxp.retain")) {
             return;
         }
 

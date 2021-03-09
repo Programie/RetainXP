@@ -1,8 +1,8 @@
-package com.selfcoders.xpkeeper;
+package com.selfcoders.retainxp;
 
 import org.bukkit.plugin.java.JavaPlugin;
 
-public class XPKeeper extends JavaPlugin {
+public class RetainXP extends JavaPlugin {
     public void onEnable() {
         saveDefaultConfig();
 

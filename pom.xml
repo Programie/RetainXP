@@ -9,13 +9,13 @@
     </parent>
 
     <groupId>com.selfcoders</groupId>
-    <artifactId>xpkeeper</artifactId>
+    <artifactId>retainxp</artifactId>
     <version>1.1-SNAPSHOT</version>
     <packaging>jar</packaging>
 
-    <name>XPKeeper</name>
+    <name>RetainXP</name>
     <description>Prevent loosing all your XP after death</description>
-    <url>https://gitlab.com/Programie/XPKeeper</url>
+    <url>https://gitlab.com/Programie/RetainXP</url>
 
     <properties>
         <bukkit-api-version>1.12.2</bukkit-api-version>
