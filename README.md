@@ -17,7 +17,7 @@ RetainXP allows you to keep a part of your XP after you die. For example, you ca
 
 ## Installation
 
-You can get the latest release from [GitLab](https://gitlab.com/Programie/RetainXP/-/jobs/artifacts/master/raw/target/RetainXP.jar?job=release).
+You can get the latest release from [GitLab](https://gitlab.com/Programie/RetainXP/-/releases) and [CurseForge](https://www.curseforge.com/minecraft/bukkit-plugins/retainxp).
 
 ## Permissions
 
