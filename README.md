@@ -7,17 +7,14 @@ A Minecraft Bukkit plugin which prevents loosing all your XP after death.
 <img src="logo.png" alt="Logo" height="300"/>
 
 [![pipeline status](https://gitlab.com/Programie/RetainXP/badges/master/pipeline.svg)](https://gitlab.com/Programie/RetainXP/commits/master)
-[![download latest release](https://img.shields.io/badge/download-latest-blue.svg)](https://gitlab.com/Programie/RetainXP/-/jobs/artifacts/master/raw/target/RetainXP.jar?job=release)
+[![download from GitLab](https://img.shields.io/badge/download-Releases-blue?logo=gitlab)](https://gitlab.com/Programie/RetainXP/-/releases)
+[![download from CurseForge](https://img.shields.io/badge/download-CurseForge-blue?logo=curseforge)](https://www.curseforge.com/minecraft/bukkit-plugins/retainxp)
 
 ## What is it?
 
 Are you annoyed to lose all your XP just because you didn't heard a Creeper behind you?
 
 RetainXP allows you to keep a part of your XP after you die. For example, you can configure it to keep 50% of your XP on death instead of losing all of it.
-
-## Installation
-
-You can get the latest release from [GitLab](https://gitlab.com/Programie/RetainXP/-/releases) and [CurseForge](https://www.curseforge.com/minecraft/bukkit-plugins/retainxp).
 
 ## Permissions
 
