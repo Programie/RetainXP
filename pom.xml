@@ -15,10 +15,10 @@
 
   <name>RetainXP</name>
   <description>Prevent loosing all your XP after death</description>
-  <url>https://gitlab.com/Programie/RetainXP</url>
+  <url>https://github.com/Programie/RetainXP</url>
 
   <scm>
-    <developerConnection>scm:git:ssh://git@gitlab.com/Programie/RetainXP.git</developerConnection>
+    <developerConnection>scm:git:ssh://git@github.com/Programie/RetainXP.git</developerConnection>
     <tag>HEAD</tag>
   </scm>
 
